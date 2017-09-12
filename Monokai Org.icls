@@ -3,7 +3,7 @@
     <property name="created">2017-09-08T18:44:40</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-09-11T15:50:04</property>
+    <property name="modified">2017-09-12T10:32:14</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -734,7 +734,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="333434" />
+        <option name="EFFECT_COLOR" value="666868" />
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
